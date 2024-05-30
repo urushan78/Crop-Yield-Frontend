@@ -1,0 +1,14 @@
+.one-input {
+  margin: 20px;
+}
+
+.selector-title {
+  color: white;
+  font-size: large;
+}
+
+.custom-select {
+  width: 200px;
+  margin: 5px;
+  text-align: center;
+}

@@ -1,0 +1,56 @@
+.container {
+  display: flex;
+  flex-wrap: nowrap;
+  height: 85vh;
+  /* border: 2px solid green; */
+}
+
+.heading {
+  text-align: center;
+  /* border: 2px solid yellow; */
+}
+
+.selectors {
+  width: 50%;
+  /* border: 2px solid red; */
+  border-right: 1px solid white;
+  height: 100%;
+  /* text-align: center; */
+}
+
+.one-input {
+  margin: 20px;
+}
+
+.submit-button {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 20px;
+  background-color: green;
+}
+
+.selector-title {
+  color: white;
+  font-size: large;
+}
+
+.prediction {
+  width: 50%;
+  /* border: 2px solid red; */
+  height: 60%;
+  text-align: center;
+  margin-top: 10%;
+  font-size: x-large;
+}
+
+.historical-data-button {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 20px;
+  /* margin-left: 75%; */
+  background-color: maroon;
+}
